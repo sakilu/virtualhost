@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63f6ca14-7f63-47f6-b173-1de63a468fd8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites-enabled/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/virtualhost.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/virtualhost-nginx.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/en/virtualhost.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/pt_BR/virtualhost-nginx.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/pt_BR/virtualhost-nginx.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/pt_BR/virtualhost.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/locale/pt_BR/virtualhost.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/virtualhost-nginx.sh" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/virtualhost.sh" afterPath="$PROJECT_DIR$/virtualhost.sh" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/start.sh" afterPath="" />
     </list>
     <ignored path="virtualhost.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,20 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="virtualhost.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="virtualhost.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/virtualhost.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.24" vertical-offset="1969" max-vertical-offset="2475">
-              <caret line="150" column="106" selection-start-line="150" selection-start-column="106" selection-end-line="150" selection-end-column="106" />
+            <state vertical-scroll-proportion="0.3853755" vertical-offset="0" max-vertical-offset="2475">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14822134" vertical-offset="0" max-vertical-offset="506">
+            <state vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="165">
               <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
@@ -255,13 +239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites-enabled/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="529">
@@ -269,18 +246,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/virtualhost.sh">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.24" vertical-offset="1969" max-vertical-offset="2475">
-          <caret line="150" column="106" selection-start-line="150" selection-start-column="106" selection-end-line="150" selection-end-column="106" />
+        <state vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="165">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/virtualhost.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14822134" vertical-offset="0" max-vertical-offset="506">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.3853755" vertical-offset="0" max-vertical-offset="2475">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
